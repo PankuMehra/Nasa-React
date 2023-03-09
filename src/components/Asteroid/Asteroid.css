@@ -1,0 +1,15 @@
+#asteroid {
+  border-radius: 10px;
+  border-color: black;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#outerText {
+  font-size: 20px;
+}
+#innerText {
+  color: #1d468e;
+  font-weight: 600;
+}
